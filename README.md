@@ -4,5 +4,6 @@ we have add this text now
 git remote set-url origin https://<token>@github.com/<username>/<repo>
 =======
 thank you for your attention
+now we're adding some new stuff
 
 >>>>>>> origin/master
